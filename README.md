@@ -2,7 +2,7 @@
 
 # python-is-cool
 really cool!
-change here
+change here: add from Github
 
 
 A gentle guide to the Python features that I didn't know existed or was too afraid to use. This will be updated as I learn more and become less lazy.
